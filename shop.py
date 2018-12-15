@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #TODO: QtMessageBox on checking data in adding smth
 #TODO: Refreshing QComboBox by self.box_init()
 #TODO: tableWidget->setColumnWidth(1,200);
